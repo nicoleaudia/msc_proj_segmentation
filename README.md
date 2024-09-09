@@ -8,7 +8,7 @@ The contents are as follows:
 - plugin_dir: Contains the python script and helper script to be called by the Jones Lab Segmentation plugin.
 - thresholds: Contains JSON files with the best performining thresholds for each finetuned model in this project.
 - utils: Contains utility functions used throughout the project, organised into general use categories.
-- adapted_macro.ijm: The ImageJ macro used by the Jones Lab, modified to call the Jones Lab Segmentation plugin for segmentation and integrate the results back into the macro. This is modified from the Jones Lab Receptor Expression MESNA macro.*
+- adapted_macro.ijm: The ImageJ macro used by the Jones Lab, modified to call the Jones Lab Segmentation plugin for segmentation and integrate the results back into the macro. This is modified from the Jones Lab Receptor Expression MESNA macro.\*
 - combined_jones_script.py: The Python recreation of the Jones Lab Receptor Expression MESNA macro.
 - image_compare.ipynb, image_sort.py: Contains files to assist in testing.
 - local_histogram_eq.ipynb: The file used for generating segmentations and analysis of local histogram equalisation.
@@ -18,4 +18,4 @@ The contents are as follows:
 - nma_inference.py: The inference script for the finetuned models.
 
 
-* The full Receptor Expression MESNA macro can be found here: https://github.com/engpol/JonesLabFIJIScripts/blob/main/Receptor_Expression_Macro_MESNA_MAC.ijm
+\* The full Receptor Expression MESNA macro can be found here: https://github.com/engpol/JonesLabFIJIScripts/blob/main/Receptor_Expression_Macro_MESNA_MAC.ijm
