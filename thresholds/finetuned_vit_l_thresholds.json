@@ -1,0 +1,4 @@
+{
+    "pred_iou_thresh": 0.525,
+    "stability_score_thresh": 0.725
+}
